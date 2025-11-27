@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/speed3xz/Arlette-Bot.git"
+    "url": "git+https://github.com/WhiskeySockets/Baileys.git"
 },
   "dependencies": {
     "@whiskeysockets/baileys": "github:Melody-xz/meta",
